@@ -3,9 +3,9 @@
   <img src="./assets/main.png" alt="Project Libra Banner" width="100%">
 </p>
 
-<h1 align="center">Orbit-Libra • Project Libra</h1>
+<h1 align="center">Generative AI 및 지능형 에이전트 기반 교육 인프라 예측 서비스</h1>
 <p align="center">
-  Generative AI 및 지능형 에이전트 기반 교육 인프라 예측 서비스
+  생성형 AI 기반 서비스 개발자 양성과정 2기 5조
 </p>
 <p align="center">
   강승민, 김선희
